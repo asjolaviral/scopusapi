@@ -1,4 +1,4 @@
-# scopusapi
+# Scopus API
 Extract metadata using Scopus API
 
 ## Links
